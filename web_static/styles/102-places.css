@@ -7,4 +7,22 @@
     border-radius: 4px;
     position: relative;
   }
+  .container {
+    width: 80%;
+    margin: auto;
+  }
+
+  .filters {
+    width: 100%;
+  }
+  .information {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+
+  .icon_guest,
+  .icon_bed,
+  .icon_bath {
+    background-size: 25px 25px;
+  }
 }
