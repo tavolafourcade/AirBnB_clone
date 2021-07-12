@@ -1,6 +1,7 @@
 .places .amenities {
   padding: 0px;
   width: 100%;
+  height: auto;
 }
 
 .places .amenities h2 {
@@ -45,4 +46,37 @@
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
+}
+
+.places .reviews {
+  padding: 0px;
+  width: 100%;
+  height: auto;
+}
+
+.places .reviews h2 {
+  margin-top: 40px;
+  font-size: 16px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.places .reviews ul {
+  padding: 0px;
+}
+
+.places .reviews ul li {
+  list-style-type: none;
+  width: 100%;
+  font-size: 14px;
+}
+
+.places .reviews ul li h3 {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.places .reviews ul li p {
+  font-size: 12px;
+  text-align: left;
+  margin-top: 0px;
 }
