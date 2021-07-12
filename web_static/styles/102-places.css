@@ -1,0 +1,10 @@
+@media screen and (max-width: 400px) {
+  article {
+    width: 80%;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ff5a5f;
+    border-radius: 4px;
+    position: relative;
+  }
+}
